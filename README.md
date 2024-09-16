@@ -19,6 +19,6 @@ This project is a React application that allows users to generate QR codes from 
 ## Usage
 - Open the app.
 - Enter a valid HTTP/HTTPS link in the input field.
-- Click the "Generate QR Code" button to display the QR code.
-- Click the "Download as PNG" button to download the generated QR code as an image file.
+- Click the "Generate" button to display the QR code.
+- Click the "Download" button to download the generated QR code as an image file.
 
