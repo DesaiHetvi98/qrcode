@@ -8,4 +8,17 @@ This project is a React application that allows users to generate QR codes from 
 - Download the generated QR code as a PNG file.
 
 ## Demo
-- You can view the deployed app here.(https://desaihetvi98.github.io/qrcode/)
+- You can view the deployed app here: (https://desaihetvi98.github.io/qrcode/)
+
+## Technologies Used
+- React - Frontend library
+- Vite - Development tool
+- qr-code-styling - Library for generating QR codes
+- html-to-image - For converting QR code to a downloadable PNG file
+  
+## Usage
+- Open the app.
+- Enter a valid HTTP/HTTPS link in the input field.
+- Click the "Generate QR Code" button to display the QR code.
+- Click the "Download as PNG" button to download the generated QR code as an image file.
+
